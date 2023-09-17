@@ -6,4 +6,4 @@ print(f""" Biodata>>>
       Name: {name}
       DOB: {birth}
       Age: {age}
-      Gender: {sex}""")
+      Gender: {sex}""")        #Concatenated Strings
