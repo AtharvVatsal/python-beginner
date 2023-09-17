@@ -1,2 +1,2 @@
 # python-beginner
-A REpo for my college and python learning journey
+A Repo for my college and python learning journey
