@@ -9,11 +9,11 @@ while True:         #Directly starts while loop
             started = True
             print('Car Started')
         command1 = input("Enter pathway ").lower()
-        if command1 == 'w':
+            if command1 == 'w':
             print("Car accelerating")
-        elif command1 == 's':
+            elif command1 == 's':
             print("Car deaccelerating")
-        else:
+             else:
             print('No defined path')
     elif command == 'stop':
         if not started:                 #started -> false
